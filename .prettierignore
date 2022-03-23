@@ -1,0 +1,12 @@
+# Don't touch IDE configuraiton
+/.idea/
+
+# Don't touch library code
+/node_modules/
+/vendor/
+/wordpress/
+package-lock.json
+/composer.lock
+
+# Don't touch build output
+/build/
